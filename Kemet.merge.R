@@ -1,5 +1,3 @@
-
-library(readr)
 #Authors: Leandro de Mattos Pereira 12/02/2018
 #Leandro de Mattos Pereira
 #Gisele Nunes
